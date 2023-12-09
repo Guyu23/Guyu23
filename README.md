@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/Guyu23/Guyu23/blob/master/devcard.svg" width="400" alt="Guyu23's Dev Card"/></a>
+<a href="https://app.daily.dev/guyu"><img src=""https://github.com/Guyu23/Guyu23/blob/master/devcard.svg" width="400" alt="Guyu's Dev Card"/></a>
 
 <!--
 **Guyu23/Guyu23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
