@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+> 来往不逢人，长歌楚天碧
+
 <a href="https://app.daily.dev/guyu"><img src="devcard.svg" width="400" alt="Guyu's Dev Card"/></a>
 
 <!--
