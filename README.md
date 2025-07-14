@@ -2,8 +2,7 @@
 
 > 来往不逢人，长歌楚天碧
 
-<a href="https://app.daily.dev/guyu"><img src="https://github.com/Guyu23/Guyu23/blob/main/devcard.svg" width="400" alt="Guyu's Dev Card"/></a>
-
+<a href="https://app.daily.dev/guyu"><img src="https://api.daily.dev/devcards/v2/tvHs6hT4XeIfvlBqX4MIH.png?r=ztl&type=wide" width="652" alt="Guyu's Dev Card"/></a>
 <!--
 **Guyu23/Guyu23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
